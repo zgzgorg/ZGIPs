@@ -1,5 +1,5 @@
 ---
-eip: 2
+zgip: 2
 title: 载歌在谷节目组改制建议
 status: Draft
 authors: 单拓(tuos@zgzg.io)
