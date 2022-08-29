@@ -1,6 +1,6 @@
 ---
 zgip: 2
-title: 载歌在谷节目组改制建议
+title: 春晚节目组改制建议
 status: Draft
 authors: 单拓(tuos@zgzg.io)
 original-draft: http://zgzg.link/new-pt
@@ -8,7 +8,7 @@ contributors: 马遂遥（suoyaom@zgzg.io）, 崔逸然（yiranc@zgzg.io）
 created: 2022-01-21
 ---
 
-载歌在谷节目组改制建议
+春晚节目组改制建议
 
 
 ## 概述
