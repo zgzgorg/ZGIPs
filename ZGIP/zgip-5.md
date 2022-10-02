@@ -1,7 +1,7 @@
 ---
 zgip: 5
 title: 载歌在谷演出“新鲜人赛道”提案
-status: 待审议
+status: 审议中
 authors: 周载南(zainanz@zgzg.io)
 original-draft: 无
 contributors: 
